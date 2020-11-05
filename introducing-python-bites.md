@@ -4,7 +4,6 @@ published: false #change to true when ready to be published
 cover_image: https://github.com/trallard/python-fun-bites/blob/main/assets/python-bites-banner.png?raw=true
 description:
 tags: PythonFunBites, azure, Python
-series: Python Fun Bites - All things Python at Microsoft
 ---
 
 <!-- Keep this preamble -->
